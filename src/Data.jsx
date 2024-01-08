@@ -1,10 +1,10 @@
 import {FiPenTool} from "react-icons/fi";
-import {FaNutritionix} from "react-icon/fa";
+import { FaNutritionix } from "react-icons/fa";
 import {BsBarCharLine} from "react-icons/bs";
 import {BiRun} from "react-icons/bi";
 
-import {MdOutineScience} from "react-icon/md";
-import {GiBiceps} from "react-icon/gi";
+import {MdOutineScience} from "react-icons/md";
+import {GiBiceps} from "react-icons/gi";
 
 import courses1 from "./assets/courses1.jpg";
 import courses2 from "./assets/courses2.jpg";
